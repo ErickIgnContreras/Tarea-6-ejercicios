@@ -37,7 +37,7 @@ people.push("Xamila");
 
 // 7
 for (let j = 0; j < people.length; j++) {
-  console.log(people[j);
+  console.log(people[j]);
   if (people[j] === "Maria") {
     break;
   }
