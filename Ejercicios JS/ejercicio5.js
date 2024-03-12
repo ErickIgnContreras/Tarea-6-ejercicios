@@ -33,12 +33,12 @@ people.splice(people.indexOf("Juan"), 1);
 people.unshift(people.splice(people.indexOf("Luis"), 1)[0]);
 
 // 6
-people.push("Victor");
+people.push("Xamila");
 
 // 7
-for (let i = 0; i < people.length; i++) {
-  console.log(people[i]);
-  if (people[i] === "Maria") {
+for (let j = 0; j < people.length; j++) {
+  console.log(people[j);
+  if (people[j] === "Maria") {
     break;
   }
 }
